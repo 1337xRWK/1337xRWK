@@ -1,6 +1,6 @@
-# Hi, I'm Aral Roca
+# Hi, I'm R. Wijaya K / 1337xRWK
 
-I am Akshit Garg, an enthusiast currently hacking on some of my projects.
+I am R. Wijaya Kusumawardhana, an enthusiast currently hacking on some of my projects.
 
 I love to work with cryptography, interpreters, compilers and distributed
 systems and retro computers. I am proficient with [Elixir](https://elixir-lang.org),
@@ -18,30 +18,34 @@ systems.
 </p>
 
 <p align="center" style="margin: -20px 0 30px">
-   <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="twitter" height="22px" width="22px" />
+   <a href="#facebook" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="22px" width="22px" />
   </a>
-  &nbsp;&nbsp;
-   <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="twitter" height="22px" width="22px" />
+
+   <a href="#whatsapp" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp" height="22px" width="22px" />
   </a>
-  &nbsp;&nbsp;
-   <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="twitter" height="22px" width="22px" />
+
+   <a href="#instagram" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="22px" width="22px" />
   </a>
-  &nbsp;&nbsp;
-   <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
+
+   <a href="#twitter" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/4467741/aral-roca" target="_blank" style='margin-right:10px'>
+
+<a href="#medium" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="22px" width="22px" />
+  </a>
+
+  <a href="#stackoverflow" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aral-roca-gomez-3b536bb1/" target="_blank" style='margin-right:10px'>
+
+  <a href="#linkedin" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
   </a>
-  &nbsp;&nbsp;
+
   <a href="mailto:contact@aralroca.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
   </a>
