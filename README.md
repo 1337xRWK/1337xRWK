@@ -11,6 +11,12 @@ Phoenix LiveView (spoiler alert, I love it!)
 As you might have guessed, I love lesser known programming languages and
 systems.
 
+<p align="center">
+  <a href="https://aralroca.com">
+    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
+  </a>
+</p>
+
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="twitter" height="22px" width="22px" />
