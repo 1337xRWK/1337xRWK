@@ -47,6 +47,7 @@ I'm a Full-Stack developer who likes to work with HTML, CSS, C++, Javascript, Py
 A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
 
 <br />
+
 #### ⚠️ &nbsp;&nbsp;3 things that are very useless in my opinion;
  
 * [Star Syndrome.](#star-syndrome) 
@@ -54,6 +55,7 @@ A few years ago I realized that I wanted to focus my efforts on being useful. Fo
 * [lots of talk without action.](#lots-of-talk-without-action) 
 
 <br />
+
 #### 📖 &nbsp;&nbsp;about me;
 
 * not famous. 
