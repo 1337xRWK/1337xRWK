@@ -21,31 +21,31 @@ systems.
    <a href="#facebook" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="22px" width="22px" />
   </a>
-
+  &nbsp;&nbsp;
    <a href="#whatsapp" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp" height="22px" width="22px" />
   </a>
-
+  &nbsp;&nbsp;
    <a href="#instagram" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="22px" width="22px" />
   </a>
-
+  &nbsp;&nbsp;
    <a href="#twitter" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
-
+  &nbsp;&nbsp;
 <a href="#medium" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="22px" width="22px" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="#stackoverflow" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="#linkedin" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="mailto:contact@aralroca.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
   </a>
