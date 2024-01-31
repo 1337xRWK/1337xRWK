@@ -5,7 +5,7 @@ I am R. Wijaya Kusumawardhana, an enthusiast currently hacking and pentesting.
 I'm a Full-Stack developer who likes to work with HTML, CSS, C++, Javascript, Python among others. 
 
 <p align="center">
-  <a href="https://aralroca.com">
+  <a href="https://1337xrwk.github.io">
     <img width="100" src="https://raw.githubusercontent.com/1337xRWK/1337xRWK/main/rwk-logo.png" alt="logo" />
   </a>
 </p>
