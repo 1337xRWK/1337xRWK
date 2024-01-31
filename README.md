@@ -16,17 +16,14 @@ systems.
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="twitter" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-<p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="twitter" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-<p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="twitter" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-<p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
